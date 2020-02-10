@@ -1,0 +1,15 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+/* .btn {
+  fill: rgb(42, 187, 156);
+}
+.btn {
+  background-color: rgb(42, 187, 156); */
+/* } */
